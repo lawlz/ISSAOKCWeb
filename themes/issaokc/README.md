@@ -1,5 +1,5 @@
 
-[Hexo](http://hexo.io) theme for the [thunderplainsconf.com](http://thunderplainsconf.com/) webiste implemented with [Jade](http://jade-lang.com/) and [Sass](http://http://sass-lang.com/).
+[Hexo](http://hexo.io) theme for the [issaokcconf.com](http://issaokcconf.com/) webiste implemented with [Jade](http://jade-lang.com/) and [Sass](http://http://sass-lang.com/).
 
 ## Installation
 

@@ -36,7 +36,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/techlahoma/thunderplains-hexo.git"
+    "url": "https://github.com/techlahoma/ISSAOkc-hexo.git"
   },
   "keywords": [
     "bsides",
@@ -50,7 +50,7 @@
   "author": "amanda harlin, jesse harlin, vance lucas, nathan sweaney",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/techlahoma/thunderplains-hexo/issues"
+    "url": "https://github.com/techlahoma/ISSAOkc-hexo/issues"
   },
-  "homepage": "https://github.com/techlahoma/thunderplains-hexo"
+  "homepage": "https://github.com/techlahoma/ISSAOkc-hexo"
 }
