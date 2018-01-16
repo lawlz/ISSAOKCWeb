@@ -3,16 +3,16 @@
 ## Source: https://github.com/tommy351/hexo/
 
 # Site
-title: BSidesOK 2018
-subtitle: Security Conference
+title: ISSA OKC
+subtitle: Information Systems Security Association
 description:
-author: Nathan Sweaney
-email: bsidesok@gmail.com
+author: James Lawler
+email: issaokc@gmail.com
 language: en
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://bsidesok.com
+url: http://issaokc.org
 root: /
 permalink: :year/:month/:day/:title/
 tag_dir: tags
