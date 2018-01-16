@@ -93,6 +93,6 @@ stylus:
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:techlahoma/bsidesok-2018.git
+  repo: git@github.com:lawlz/ISSAOKC.git
   branch: gh-pages
   ignore_errors: true
