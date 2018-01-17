@@ -1,5 +1,5 @@
 
-[Hexo](http://hexo.io) theme for the [issaokcconf.com](http://issaokcconf.com/) webiste implemented with [Jade](http://jade-lang.com/) and [Sass](http://http://sass-lang.com/).
+[Hexo](http://hexo.io) theme for the [issaokc.com](http://issaokc.com/) webiste implemented with [Jade](http://jade-lang.com/) and [Sass](http://http://sass-lang.com/).
 
 ## Installation
 
@@ -11,4 +11,3 @@ npm install hexo-renderer-sass --save
 ```
 
 Clone this repository to your Hexo themes folder and modify `theme` in `_config.yml` to `frisby`.
-
