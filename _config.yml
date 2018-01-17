@@ -93,6 +93,6 @@ stylus:
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:lawlz/ISSAOKC.git
-  branch: gh-pages
+  repo: https://github.com/lawlz/ISSAOKCWeb
+  branch: WebFace
   ignore_errors: true
