@@ -94,5 +94,5 @@ stylus:
 deploy:
   type: git
   repo: https://github.com/lawlz/ISSAOKCWeb
-  branch: WebFace
+  branch: Master
   ignore_errors: true

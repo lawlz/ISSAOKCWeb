@@ -15,9 +15,10 @@
     "hexo-generator-tag": "0.x.x",
     "hexo-pagination": "0.x.x",
     "hexo-renderer-ejs": "*",
-    "hexo-renderer-jade": "0.x.x",
+    "hexo-renderer-jade": "^0.4.1",
     "hexo-renderer-markdownjs": "0.x.x",
     "hexo-renderer-marked": "^0.3.2",
+    "hexo-renderer-sass": "^0.3.2",
     "hexo-renderer-stylus": "0.3.1",
     "hexo-server": "^0.2.0",
     "hexo-tag-googlemaps": "*"
