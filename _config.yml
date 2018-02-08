@@ -81,11 +81,7 @@ disqus_shortname:
 # Extensions
 ## Plugins: https://github.com/tommy351/hexo/wiki/Plugins
 ## Themes: https://github.com/tommy351/hexo/wiki/Themes
-<<<<<<< HEAD
-theme: jekyll-theme-cayman
-=======
 theme: issaokc
->>>>>>> WebFace
 exclude_generator:
 - index
 - home
