@@ -46,4 +46,4 @@ We hope to see you there!
 
 
 ##  :love_letter:  Many Thanks to Techlahoma!!!
-Without them, none of this site would have been possible.  Built off of their Thunderplains site.  Support the community!
+Without them, none of this site would have been possible.  Built off of their Thunderplains site.  Support the Techlomunity!
