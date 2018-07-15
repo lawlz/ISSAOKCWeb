@@ -1,5 +1,5 @@
 {
-    "name": "ISSAOKC",
+    "name": "issaokc",
     "version": "0.0.2",
     "private": true,
     "dependencies": {
@@ -20,8 +20,7 @@
         "hexo-renderer-marked": "^0.3.2",
         "hexo-renderer-sass": "^0.3.2",
         "hexo-renderer-stylus": "^0.3.3",
-        "hexo-server": "^0.3.2",
-        "hexo-tag-googlemaps": "^1.2.1"
+        "hexo-server": "^0.3.2"
     },
     "hexo": {
         "version": "3.7.1"
