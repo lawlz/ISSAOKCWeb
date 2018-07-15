@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://issaokc.lawlzsec.com/volunteer.html</loc>
+    <loc>http://issaokc.lawlzsec.com/index.html</loc>
     
-    <lastmod>2018-07-15T18:21:01.552Z</lastmod>
+    <lastmod>2018-07-15T19:03:10.014Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://issaokc.lawlzsec.com/iws-conference.html</loc>
     
-    <lastmod>2018-07-15T18:21:01.550Z</lastmod>
+    <lastmod>2018-07-15T18:59:45.834Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://issaokc.lawlzsec.com/volunteer.html</loc>
+    
+    <lastmod>2018-07-15T18:59:21.960Z</lastmod>
     
   </url>
   
@@ -23,13 +30,6 @@
   </url>
   
   <url>
-    <loc>http://issaokc.lawlzsec.com/training.html</loc>
-    
-    <lastmod>2018-07-15T17:29:04.621Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://issaokc.lawlzsec.com/sponsorship.html</loc>
     
     <lastmod>2018-07-15T17:29:04.621Z</lastmod>
@@ -37,7 +37,7 @@
   </url>
   
   <url>
-    <loc>http://issaokc.lawlzsec.com/tickets.html</loc>
+    <loc>http://issaokc.lawlzsec.com/training.html</loc>
     
     <lastmod>2018-07-15T17:29:04.621Z</lastmod>
     
@@ -51,14 +51,14 @@
   </url>
   
   <url>
-    <loc>http://issaokc.lawlzsec.com/tv-day-1.html</loc>
+    <loc>http://issaokc.lawlzsec.com/tv-day-2.html</loc>
     
     <lastmod>2018-07-15T17:29:04.621Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://issaokc.lawlzsec.com/tv-day-2.html</loc>
+    <loc>http://issaokc.lawlzsec.com/tickets.html</loc>
     
     <lastmod>2018-07-15T17:29:04.621Z</lastmod>
     
@@ -86,9 +86,9 @@
   </url>
   
   <url>
-    <loc>http://issaokc.lawlzsec.com/speakers/nathan-keltner/description.html</loc>
+    <loc>http://issaokc.lawlzsec.com/tv-day-1.html</loc>
     
-    <lastmod>2018-07-15T17:29:04.606Z</lastmod>
+    <lastmod>2018-07-15T17:29:04.621Z</lastmod>
     
   </url>
   
@@ -100,21 +100,7 @@
   </url>
   
   <url>
-    <loc>http://issaokc.lawlzsec.com/speakers/ramece-cave/entry.html</loc>
-    
-    <lastmod>2018-07-15T17:29:04.606Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://issaokc.lawlzsec.com/speakers/ramece-cave/bio.html</loc>
-    
-    <lastmod>2018-07-15T17:29:04.606Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://issaokc.lawlzsec.com/speakers/panel/entry.html</loc>
+    <loc>http://issaokc.lawlzsec.com/speakers/rich-lay/bio.html</loc>
     
     <lastmod>2018-07-15T17:29:04.606Z</lastmod>
     
@@ -135,20 +121,6 @@
   </url>
   
   <url>
-    <loc>http://issaokc.lawlzsec.com/speakers/panel/bio.html</loc>
-    
-    <lastmod>2018-07-15T17:29:04.606Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://issaokc.lawlzsec.com/speakers/rich-lay/description.html</loc>
-    
-    <lastmod>2018-07-15T17:29:04.606Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://issaokc.lawlzsec.com/speakers/nathan-keltner/entry.html</loc>
     
     <lastmod>2018-07-15T17:29:04.606Z</lastmod>
@@ -156,7 +128,35 @@
   </url>
   
   <url>
-    <loc>http://issaokc.lawlzsec.com/speakers/rich-lay/bio.html</loc>
+    <loc>http://issaokc.lawlzsec.com/speakers/ramece-cave/bio.html</loc>
+    
+    <lastmod>2018-07-15T17:29:04.606Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://issaokc.lawlzsec.com/speakers/panel/entry.html</loc>
+    
+    <lastmod>2018-07-15T17:29:04.606Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://issaokc.lawlzsec.com/speakers/ramece-cave/entry.html</loc>
+    
+    <lastmod>2018-07-15T17:29:04.606Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://issaokc.lawlzsec.com/speakers/nathan-keltner/description.html</loc>
+    
+    <lastmod>2018-07-15T17:29:04.606Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://issaokc.lawlzsec.com/speakers/panel/bio.html</loc>
     
     <lastmod>2018-07-15T17:29:04.606Z</lastmod>
     
@@ -170,13 +170,6 @@
   </url>
   
   <url>
-    <loc>http://issaokc.lawlzsec.com/speakers/mic-whitehorn-gillam/description.html</loc>
-    
-    <lastmod>2018-07-15T17:29:04.606Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://issaokc.lawlzsec.com/speakers/mic-whitehorn-gillam/entry.html</loc>
     
     <lastmod>2018-07-15T17:29:04.606Z</lastmod>
@@ -184,14 +177,21 @@
   </url>
   
   <url>
-    <loc>http://issaokc.lawlzsec.com/speakers/johnny-long/entry.html</loc>
+    <loc>http://issaokc.lawlzsec.com/speakers/mic-whitehorn-gillam/description.html</loc>
     
-    <lastmod>2018-07-15T17:29:04.590Z</lastmod>
+    <lastmod>2018-07-15T17:29:04.606Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://issaokc.lawlzsec.com/speakers/luke-crouch2/description.html</loc>
+    <loc>http://issaokc.lawlzsec.com/speakers/rich-lay/description.html</loc>
+    
+    <lastmod>2018-07-15T17:29:04.606Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://issaokc.lawlzsec.com/speakers/johnny-long/bio.html</loc>
     
     <lastmod>2018-07-15T17:29:04.590Z</lastmod>
     
@@ -205,7 +205,7 @@
   </url>
   
   <url>
-    <loc>http://issaokc.lawlzsec.com/speakers/luke-crouch/description.html</loc>
+    <loc>http://issaokc.lawlzsec.com/speakers/luke-crouch2/description.html</loc>
     
     <lastmod>2018-07-15T17:29:04.590Z</lastmod>
     
@@ -219,7 +219,7 @@
   </url>
   
   <url>
-    <loc>http://issaokc.lawlzsec.com/speakers/mic-whitehorn-gillam/bio.html</loc>
+    <loc>http://issaokc.lawlzsec.com/speakers/luke-crouch/description.html</loc>
     
     <lastmod>2018-07-15T17:29:04.590Z</lastmod>
     
@@ -233,14 +233,14 @@
   </url>
   
   <url>
-    <loc>http://issaokc.lawlzsec.com/speakers/luke-crouch2/bio.html</loc>
+    <loc>http://issaokc.lawlzsec.com/speakers/johnny-long/entry.html</loc>
     
     <lastmod>2018-07-15T17:29:04.590Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://issaokc.lawlzsec.com/speakers/jason-holcomb/description.html</loc>
+    <loc>http://issaokc.lawlzsec.com/speakers/luke-crouch2/bio.html</loc>
     
     <lastmod>2018-07-15T17:29:04.590Z</lastmod>
     
@@ -261,7 +261,7 @@
   </url>
   
   <url>
-    <loc>http://issaokc.lawlzsec.com/speakers/johnny-long/bio.html</loc>
+    <loc>http://issaokc.lawlzsec.com/speakers/jason-holcomb/description.html</loc>
     
     <lastmod>2018-07-15T17:29:04.590Z</lastmod>
     
@@ -275,6 +275,13 @@
   </url>
   
   <url>
+    <loc>http://issaokc.lawlzsec.com/speakers/mic-whitehorn-gillam/bio.html</loc>
+    
+    <lastmod>2018-07-15T17:29:04.590Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://issaokc.lawlzsec.com/speakers/jack-daniel/entry.html</loc>
     
     <lastmod>2018-07-15T17:29:04.590Z</lastmod>
@@ -282,91 +289,7 @@
   </url>
   
   <url>
-    <loc>http://issaokc.lawlzsec.com/speakers/example-keynote/bio.html</loc>
-    
-    <lastmod>2018-07-15T17:29:04.574Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://issaokc.lawlzsec.com/speakers/example/description.html</loc>
-    
-    <lastmod>2018-07-15T17:29:04.574Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://issaokc.lawlzsec.com/speakers/example/bio.html</loc>
-    
-    <lastmod>2018-07-15T17:29:04.574Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://issaokc.lawlzsec.com/speakers/jack-daniel/description.html</loc>
-    
-    <lastmod>2018-07-15T17:29:04.574Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://issaokc.lawlzsec.com/speakers/example/entry.html</loc>
-    
-    <lastmod>2018-07-15T17:29:04.574Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://issaokc.lawlzsec.com/speakers/frank-gifford/entry.html</loc>
-    
-    <lastmod>2018-07-15T17:29:04.574Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://issaokc.lawlzsec.com/speakers/example-keynote/description.html</loc>
-    
-    <lastmod>2018-07-15T17:29:04.574Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://issaokc.lawlzsec.com/speakers/example-keynote/entry.html</loc>
-    
-    <lastmod>2018-07-15T17:29:04.574Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://issaokc.lawlzsec.com/speakers/greg-guhin/bio.html</loc>
-    
-    <lastmod>2018-07-15T17:29:04.574Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://issaokc.lawlzsec.com/speakers/greg-guhin/description.html</loc>
-    
-    <lastmod>2018-07-15T17:29:04.574Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://issaokc.lawlzsec.com/speakers/greg-guhin/entry.html</loc>
-    
-    <lastmod>2018-07-15T17:29:04.574Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://issaokc.lawlzsec.com/speakers/frank-gifford/bio.html</loc>
-    
-    <lastmod>2018-07-15T17:29:04.574Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://issaokc.lawlzsec.com/speakers/frank-gifford/description.html</loc>
     
     <lastmod>2018-07-15T17:29:04.574Z</lastmod>
     
@@ -380,7 +303,91 @@
   </url>
   
   <url>
-    <loc>http://issaokc.lawlzsec.com/speakers/chris-yates/bio.html</loc>
+    <loc>http://issaokc.lawlzsec.com/speakers/example/entry.html</loc>
+    
+    <lastmod>2018-07-15T17:29:04.574Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://issaokc.lawlzsec.com/speakers/example-keynote/entry.html</loc>
+    
+    <lastmod>2018-07-15T17:29:04.574Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://issaokc.lawlzsec.com/speakers/example-keynote/bio.html</loc>
+    
+    <lastmod>2018-07-15T17:29:04.574Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://issaokc.lawlzsec.com/speakers/frank-gifford/bio.html</loc>
+    
+    <lastmod>2018-07-15T17:29:04.574Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://issaokc.lawlzsec.com/speakers/example-keynote/description.html</loc>
+    
+    <lastmod>2018-07-15T17:29:04.574Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://issaokc.lawlzsec.com/speakers/frank-gifford/description.html</loc>
+    
+    <lastmod>2018-07-15T17:29:04.574Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://issaokc.lawlzsec.com/speakers/greg-guhin/bio.html</loc>
+    
+    <lastmod>2018-07-15T17:29:04.574Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://issaokc.lawlzsec.com/speakers/example/description.html</loc>
+    
+    <lastmod>2018-07-15T17:29:04.574Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://issaokc.lawlzsec.com/speakers/greg-guhin/description.html</loc>
+    
+    <lastmod>2018-07-15T17:29:04.574Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://issaokc.lawlzsec.com/speakers/frank-gifford/entry.html</loc>
+    
+    <lastmod>2018-07-15T17:29:04.574Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://issaokc.lawlzsec.com/speakers/greg-guhin/entry.html</loc>
+    
+    <lastmod>2018-07-15T17:29:04.574Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://issaokc.lawlzsec.com/speakers/example/bio.html</loc>
+    
+    <lastmod>2018-07-15T17:29:04.574Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://issaokc.lawlzsec.com/speakers/bobby-simpson/entry.html</loc>
     
     <lastmod>2018-07-15T17:29:04.559Z</lastmod>
     
@@ -394,42 +401,7 @@
   </url>
   
   <url>
-    <loc>http://issaokc.lawlzsec.com/speakers/donovan-farrow/description.html</loc>
-    
-    <lastmod>2018-07-15T17:29:04.559Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://issaokc.lawlzsec.com/speakers/dan-bougere/description.html</loc>
-    
-    <lastmod>2018-07-15T17:29:04.559Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://issaokc.lawlzsec.com/speakers/donovan-farrow/bio.html</loc>
-    
-    <lastmod>2018-07-15T17:29:04.559Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://issaokc.lawlzsec.com/speakers/dallas-haselhorst/bio.html</loc>
-    
-    <lastmod>2018-07-15T17:29:04.559Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://issaokc.lawlzsec.com/speakers/dallas-haselhorst/entry.html</loc>
-    
-    <lastmod>2018-07-15T17:29:04.559Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://issaokc.lawlzsec.com/speakers/dan-bougere/entry.html</loc>
     
     <lastmod>2018-07-15T17:29:04.559Z</lastmod>
     
@@ -443,6 +415,20 @@
   </url>
   
   <url>
+    <loc>http://issaokc.lawlzsec.com/speakers/donovan-farrow/description.html</loc>
+    
+    <lastmod>2018-07-15T17:29:04.559Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://issaokc.lawlzsec.com/speakers/donovan-farrow/bio.html</loc>
+    
+    <lastmod>2018-07-15T17:29:04.559Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://issaokc.lawlzsec.com/speakers/dallas-haselhorst/description.html</loc>
     
     <lastmod>2018-07-15T17:29:04.559Z</lastmod>
@@ -450,7 +436,14 @@
   </url>
   
   <url>
-    <loc>http://issaokc.lawlzsec.com/speakers/bobby-simpson/entry.html</loc>
+    <loc>http://issaokc.lawlzsec.com/speakers/dallas-haselhorst/bio.html</loc>
+    
+    <lastmod>2018-07-15T17:29:04.559Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://issaokc.lawlzsec.com/speakers/dan-bougere/description.html</loc>
     
     <lastmod>2018-07-15T17:29:04.559Z</lastmod>
     
@@ -458,13 +451,6 @@
   
   <url>
     <loc>http://issaokc.lawlzsec.com/speakers/bobby-simpson/description.html</loc>
-    
-    <lastmod>2018-07-15T17:29:04.559Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://issaokc.lawlzsec.com/speakers/chris-yates/description.html</loc>
     
     <lastmod>2018-07-15T17:29:04.559Z</lastmod>
     
@@ -479,6 +465,27 @@
   
   <url>
     <loc>http://issaokc.lawlzsec.com/speakers/chris-yates/entry.html</loc>
+    
+    <lastmod>2018-07-15T17:29:04.559Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://issaokc.lawlzsec.com/speakers/chris-yates/bio.html</loc>
+    
+    <lastmod>2018-07-15T17:29:04.559Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://issaokc.lawlzsec.com/speakers/chris-yates/description.html</loc>
+    
+    <lastmod>2018-07-15T17:29:04.559Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://issaokc.lawlzsec.com/speakers/dan-bougere/entry.html</loc>
     
     <lastmod>2018-07-15T17:29:04.559Z</lastmod>
     
@@ -506,14 +513,14 @@
   </url>
   
   <url>
-    <loc>http://issaokc.lawlzsec.com/slides/t-shirt-sponsor.html</loc>
+    <loc>http://issaokc.lawlzsec.com/slides/silver-sponsors.html</loc>
     
     <lastmod>2018-07-15T17:29:04.555Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://issaokc.lawlzsec.com/slides/silver-sponsors.html</loc>
+    <loc>http://issaokc.lawlzsec.com/slides/t-shirt-sponsor.html</loc>
     
     <lastmod>2018-07-15T17:29:04.555Z</lastmod>
     
@@ -562,13 +569,6 @@
   </url>
   
   <url>
-    <loc>http://issaokc.lawlzsec.com/meetings.html</loc>
-    
-    <lastmod>2018-07-15T17:29:04.549Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://issaokc.lawlzsec.com/news.html</loc>
     
     <lastmod>2018-07-15T17:29:04.549Z</lastmod>
@@ -576,9 +576,9 @@
   </url>
   
   <url>
-    <loc>http://issaokc.lawlzsec.com/index.html</loc>
+    <loc>http://issaokc.lawlzsec.com/meetings.html</loc>
     
-    <lastmod>2018-07-15T17:29:04.547Z</lastmod>
+    <lastmod>2018-07-15T17:29:04.549Z</lastmod>
     
   </url>
   
