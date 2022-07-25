@@ -42,7 +42,7 @@ Many thanks to organizers and volunteers: John Robertson, Julie Johnson, Daniell
 
 We hope to see you there!
 
-[ISSAOKC](issaokc.com)
+[ISSAOKC](http://issaokc.lawlzsec.com/)
 
 
 ##  :love_letter:  Many Thanks to Techlahoma!!!
